@@ -184,8 +184,10 @@ ul.row {
   list-style: none;
 }
 
-.row {
-  display: flex;
+.row::after{
+  content: none;
+  display: table;
+  clear: both;
 }
 
 /** column spacing
