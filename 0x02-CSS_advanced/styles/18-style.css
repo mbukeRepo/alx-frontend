@@ -36,7 +36,7 @@
   --section-footer-align: center;
   --footer-padding: 5rem 0 1rem;
 
-  --nav-item-font-family: var(--font-family-headings);
+  --nav-item-font-family: var(--font-family-title);
   --nav-item-font-weight: var(--font-weight-bold);
   --nav-item-font-size: var(--font-size-medium);
   --nav-item-letter-spacing: 0.04rem;
@@ -107,7 +107,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .nav .nav-link {
   display: block;
-  padding: 0.5rem 0; 
+  padding: 0.5rem;
 }
 
 .nav .nav-link:hover {
