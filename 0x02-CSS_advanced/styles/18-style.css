@@ -91,7 +91,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .nav {
   margin: 0;
-  padding: 0;
+  padding: 0.5rem 0;
   list-style: none;
   text-align: center;
 }
@@ -107,7 +107,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .nav .nav-link {
   display: block;
-  padding: 0.5rem;
+  padding: 0.5rem 0;
 }
 
 .nav .nav-link:hover {
