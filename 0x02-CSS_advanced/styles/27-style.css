@@ -212,7 +212,6 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: var(--font-weight-bold);
   margin: var(--section-title-margin);
   color: var(--section-title-color);
-  margin-bottom: 5rem;
 }
 
 .section-tagline {
@@ -225,6 +224,10 @@ h1, h2, h3, h4, h5, h6 {
 
 .section-hero {
   background-size: 90rem auto;
+}
+
+.section-hero .section-title {
+  margin-bottom: 5rem;
 }
 
 .section-hero .section-inner {
